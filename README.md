@@ -2,7 +2,9 @@
 
 # Introduction
 
-My name is Vichayut Tubtim  My nickname is Pokpong  I am studying Computer Engineering at Thammasart University
+My name is Vichayut Tubtim  
+My nickname is Pokpong  
+I am studying Computer Engineering at Thammasart University
 
 Contact
 `Tel: 084-3260386` `E-mail: phonkcc@gmail.com*`
