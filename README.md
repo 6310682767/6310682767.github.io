@@ -1,6 +1,6 @@
 # 6310682767.github.io
 
-# Introduction
+# Self Introduction
 
 My name is Vichayut Tubtim  
 My nickname is Pokpong  
